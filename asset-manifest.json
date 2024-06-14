@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jewel.git/static/css/main.80a3d15b.css",
+    "main.js": "/jewel.git/static/js/main.d577de00.js",
+    "static/js/453.30784a57.chunk.js": "/jewel.git/static/js/453.30784a57.chunk.js",
+    "static/media/revicons.eot": "/jewel.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/jewel.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/jewel.git/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/jewel.git/index.html",
+    "main.80a3d15b.css.map": "/jewel.git/static/css/main.80a3d15b.css.map",
+    "main.d577de00.js.map": "/jewel.git/static/js/main.d577de00.js.map",
+    "453.30784a57.chunk.js.map": "/jewel.git/static/js/453.30784a57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a3d15b.css",
+    "static/js/main.d577de00.js"
+  ]
+}
